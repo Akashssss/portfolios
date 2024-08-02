@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Akash Singh\\source\\repos\\Food Order\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{700825DB-7A0A-41E9-A919-92FC1C4DB159}|Food Order\\Food Order.csproj|c:\\users\\akash singh\\source\\repos\\food order\\food order\\model\\orderproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{700825DB-7A0A-41E9-A919-92FC1C4DB159}|Food Order\\Food Order.csproj|solutionrelative:food order\\model\\orderproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{700825DB-7A0A-41E9-A919-92FC1C4DB159}|Food Order\\Food Order.csproj|c:\\users\\akash singh\\source\\repos\\food order\\food order\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{700825DB-7A0A-41E9-A919-92FC1C4DB159}|Food Order\\Food Order.csproj|solutionrelative:food order\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{700825DB-7A0A-41E9-A919-92FC1C4DB159}|Food Order\\Food Order.csproj|c:\\users\\akash singh\\source\\repos\\food order\\food order\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{700825DB-7A0A-41E9-A919-92FC1C4DB159}|Food Order\\Food Order.csproj|solutionrelative:food order\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{700825DB-7A0A-41E9-A919-92FC1C4DB159}|Food Order\\Food Order.csproj|c:\\users\\akash singh\\source\\repos\\food order\\food order\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{700825DB-7A0A-41E9-A919-92FC1C4DB159}|Food Order\\Food Order.csproj|solutionrelative:food order\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{700825DB-7A0A-41E9-A919-92FC1C4DB159}|Food Order\\Food Order.csproj|c:\\users\\akash singh\\source\\repos\\food order\\food order\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{700825DB-7A0A-41E9-A919-92FC1C4DB159}|Food Order\\Food Order.csproj|solutionrelative:food order\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{700825DB-7A0A-41E9-A919-92FC1C4DB159}|Food Order\\Food Order.csproj|c:\\users\\akash singh\\source\\repos\\food order\\food order\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{700825DB-7A0A-41E9-A919-92FC1C4DB159}|Food Order\\Food Order.csproj|solutionrelative:food order\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{700825DB-7A0A-41E9-A919-92FC1C4DB159}|Food Order\\Food Order.csproj|c:\\users\\akash singh\\source\\repos\\food order\\food order\\food order.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{700825DB-7A0A-41E9-A919-92FC1C4DB159}|Food Order\\Food Order.csproj|solutionrelative:food order\\food order.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{700825DB-7A0A-41E9-A919-92FC1C4DB159}|Food Order\\Food Order.csproj|c:\\users\\akash singh\\source\\repos\\food order\\food order\\model\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{700825DB-7A0A-41E9-A919-92FC1C4DB159}|Food Order\\Food Order.csproj|solutionrelative:food order\\model\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\Akash Singh\\source\\repos\\Food Order\\Food Order\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "Food Order\\Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\Akash Singh\\source\\repos\\Food Order\\Food Order\\Data\\DataContext.cs",
+              "RelativeToolTip": "Food Order\\Data\\DataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T21:34:13.683Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Akash Singh\\source\\repos\\Food Order\\Food Order\\Program.cs",
+              "RelativeDocumentMoniker": "Food Order\\Program.cs",
+              "ToolTip": "C:\\Users\\Akash Singh\\source\\repos\\Food Order\\Food Order\\Program.cs",
+              "RelativeToolTip": "Food Order\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T21:54:12.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Akash Singh\\source\\repos\\Food Order\\Food Order\\appsettings.json",
+              "RelativeDocumentMoniker": "Food Order\\appsettings.json",
+              "ToolTip": "C:\\Users\\Akash Singh\\source\\repos\\Food Order\\Food Order\\appsettings.json",
+              "RelativeToolTip": "Food Order\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABpAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-01T21:48:47.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Food Order",
+              "DocumentMoniker": "C:\\Users\\Akash Singh\\source\\repos\\Food Order\\Food Order\\Food Order.csproj",
+              "RelativeDocumentMoniker": "Food Order\\Food Order.csproj",
+              "ToolTip": "C:\\Users\\Akash Singh\\source\\repos\\Food Order\\Food Order\\Food Order.csproj",
+              "RelativeToolTip": "Food Order\\Food Order.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-01T21:30:30.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderProduct.cs",
+              "DocumentMoniker": "C:\\Users\\Akash Singh\\source\\repos\\Food Order\\Food Order\\Model\\OrderProduct.cs",
+              "RelativeDocumentMoniker": "Food Order\\Model\\OrderProduct.cs",
+              "ToolTip": "C:\\Users\\Akash Singh\\source\\repos\\Food Order\\Food Order\\Model\\OrderProduct.cs",
+              "RelativeToolTip": "Food Order\\Model\\OrderProduct.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAuwAwAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T19:02:28.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Akash Singh\\source\\repos\\Food Order\\Food Order\\Model\\Order.cs",
+              "RelativeDocumentMoniker": "Food Order\\Model\\Order.cs",
+              "ToolTip": "C:\\Users\\Akash Singh\\source\\repos\\Food Order\\Food Order\\Model\\Order.cs",
+              "RelativeToolTip": "Food Order\\Model\\Order.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T17:08:56.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Akash Singh\\source\\repos\\Food Order\\Food Order\\Model\\Customer.cs",
+              "RelativeDocumentMoniker": "Food Order\\Model\\Customer.cs",
+              "ToolTip": "C:\\Users\\Akash Singh\\source\\repos\\Food Order\\Food Order\\Model\\Customer.cs",
+              "RelativeToolTip": "Food Order\\Model\\Customer.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAgwCgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T16:56:09.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Akash Singh\\source\\repos\\Food Order\\Food Order\\Model\\Product.cs",
+              "RelativeDocumentMoniker": "Food Order\\Model\\Product.cs",
+              "ToolTip": "C:\\Users\\Akash Singh\\source\\repos\\Food Order\\Food Order\\Model\\Product.cs",
+              "RelativeToolTip": "Food Order\\Model\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T15:26:09.454Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
